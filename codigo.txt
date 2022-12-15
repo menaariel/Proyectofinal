@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    background-color: aliceblue;
+    font-family: 'Nerko One', cursive;
+}
+
+.page-nav {
+    background-color: rgb(rgb(0, 225, 255
+    border: 1px solid black;
+}
+
+.page-content{
+    display: grid;
+    border: 1px solid red;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-color: #4E566B;
+    border: 5px #4E566B
+
+}
+
+
+.page-nav h1 {
+    margin: 20px;
+}
+
+.product-container img {
+    margin: 15px;
+    padding: 2px 16px;
+    position: relative;
+}
+
+/* Al pasar el mouse, agrega una sombra más profunda  */
+.product-container:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+}
+
+ {
+    width: 300px;
+}
+
+ <button type="button" class="btn btn-outline-primary">agregar</button>

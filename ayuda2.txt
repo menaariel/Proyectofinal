@@ -1,0 +1,50 @@
+ <link rel="stylesheet" href="style.css" />
+    <script scr="scripts.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap" rel="stylesheet">
+
+<main>
+
+    <body>
+        <section class="contenedor2">
+            <table class="table table-bordered border-light table-striped table-dark">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Cargo</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td>kiko</td>
+                    <td>kiko</td>
+                    <td>Palomares</td>
+                    <td>Director de Diseño</td>
+                    <td>email@email.com</td>
+                </tr>
+                <tr>
+                    <td>kiko</td>
+                    <td>kiko</td>
+                    <td>Palomares</td>
+                    <td>Director de Compras</td>
+                    <td>email@email.com</td>
+                </tr>
+                <tr>
+                    <td>kiko</td>
+                    <td>kiko</td>
+                    <td>Palomares</td>
+                    <td>Director de Ventas</td>
+                    <td>email@email.com</td>
+                </tr>
+                <tr>
+                    <td>kiko</td>
+                    <td>kiko</td>
+                    <td>Palomares</td>
+                    <td>Director de Marketing</td>
+                    <td>email@email.com</td>
+                </tr>
+            </table>
+
+        </section>
+</main>
